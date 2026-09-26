@@ -20,7 +20,7 @@ Analysed sales and inventory data to examine credit risk and inventory concentra
 
 Conducted fieldwork and FGDs with tribal communities and institutional stakeholders to study millet cultivation, dietary transition, food security and nutrition.
 
-[View Report →](./TISS-Fieldwork/Attappadi_FieldworkReport.pdf)
+[View Report →](./TISS-Fieldwork/Attapadi_FieldReport.pdf)
 
 ### Socio-Economic Household Survey
 **Tuljapur & Kakarmba, Maharashtra**
