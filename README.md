@@ -34,4 +34,4 @@ Conducted household surveys and direct observations to analyse livelihoods, soci
 
 Conducted village-level fieldwork and institutional visits to examine the implementation of MGNREGA, ICDS, PDS, Pension and Mid-Day Meal schemes.
 
-[View Report →](./TISS-Fieldwork/Mangrul_fieldwork_Report.pdf)
+[View Report →](./TISS-Fieldwork/Mangrul_fieldwork_report.pdf)
